@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Compose Cats</string>
+
+    <!-- Home screen -->
+    <string name="home_screen__desc_cat_image">Cat image</string>
+    <string name="home_screen__text_empty_list">Empty list</string>
+    <string name="home_screen__text_error">Error</string>
+
+    <!-- Details screen -->
+    <string name="details_screen__desc_cat_image">Cat image</string>
+    <string name="details_screen__desc_expand_details_icon">Expand details</string>
+    <string name="details_screen__desc_hide_details_icon">Hide details</string>
+    <string name="details_screen__text_temperament_subtitle">Temperament</string>
+    <string name="details_screen__text_origin_title">Origin</string>
+    <string name="details_screen__text_description_title">Description</string>
+</resources>
